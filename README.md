@@ -2,6 +2,9 @@
 
 Teacher Eye is a project aimed at enhancing the online education experience through various computer vision techniques. It provides real-time monitoring and analysis of student engagement and behavior during online classes.
 
+
+![Teacher Eye Demo](output_video3-ezgif.com-speed.gif)
+
 ## Features
 
 - **Sleep Detection**: Analyzes eye or facial features to detect if a student appears to be falling asleep.
