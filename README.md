@@ -2,7 +2,7 @@
 
 Teacher Eye is a project aimed at enhancing the online education experience through various computer vision techniques. It provides real-time monitoring and analysis of student engagement and behavior during online classes.
 
-![Teacher Eye Demo](demo1.mp4)
+
 ![Teacher Eye Demo](demo2.gif)
 
 ## Features
@@ -12,6 +12,9 @@ Teacher Eye is a project aimed at enhancing the online education experience thro
 - **Face Orientation**: Tracks where students are looking to assess attentiveness.
 - **Student Detection**: Detects the presence or absence of students and counts how many are visible.
 - **Phone Detection**: Identifies if students are using phones during class time.
+
+- 
+![Teacher Eye Demo](demo1.mp4)
 
 ## Project Structure
 
