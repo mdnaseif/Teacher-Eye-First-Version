@@ -13,8 +13,6 @@ Teacher Eye is a project aimed at enhancing the online education experience thro
 - **Student Detection**: Detects the presence or absence of students and counts how many are visible.
 - **Phone Detection**: Identifies if students are using phones during class time.
 
-- 
-![Teacher Eye Demo](demo1.mp4)
 
 ## Project Structure
 
